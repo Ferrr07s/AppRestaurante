@@ -26,3 +26,6 @@ incluyendo la gestión de clientes, mesas, platos, pedidos y reservas.
 
 - **Puerto:** 8090
 - **Context path:** `/fernando`
+
+## 👤 Autor
+Fernando Salvatierra
